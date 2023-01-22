@@ -24,7 +24,7 @@ description              : "A Programmer with the Sloth's Thinking Speed tells h
 url                      : "https://shpun817.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "shpun817/shpun817.github.io"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/teaser.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
