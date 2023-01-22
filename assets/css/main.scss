@@ -7,6 +7,14 @@ search: false
 
 // Override the theme's style Sass variables
 
+// Custom CSS styling
+.width-half {
+    width: 50%
+}
+
+img + em { // Image with captions
+    font-size: 0.75em
+}
 
 // Do not edit after this line
 
