@@ -15,3 +15,7 @@ $ bundle exec jekyll serve
 $ bundle update github-pages
 
 ```
+
+## Layout documentation
+
+https://mmistakes.github.io/minimal-mistakes/docs/layouts/

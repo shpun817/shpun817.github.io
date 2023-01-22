@@ -271,6 +271,7 @@ defaults:
       share: false
       related: false
       show_date: true
+      permalink: /:year/:month/:day/:title/
   # _pages
   - scope:
       path: ""
